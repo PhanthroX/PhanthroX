@@ -1,4 +1,4 @@
-## Fala Galera. Me chamo Matheus Mariano Rocha || Hoje Atuo com Processos e Qualidade || Mergulhando em tecnologia - FrontEnd - UX
+## Fala Galera. Me chamo Matheus Mariano Rocha || Processos e Qualidade || FrontEnd || UX
 <div align="center">
   <a href="https://github.com/PhanthroX">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhanthroX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
