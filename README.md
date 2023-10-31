@@ -6,8 +6,16 @@
 <section>
 <h2> About me</h2>
 <section>
+Hi there. I hope you're doing well! ;)
+  
+I have a degree in Business Management Administration and Master's degree in Marketing and Digital Behavior Management. 
 
-I have a degree in Business Management Administration and Master's degree in Marketing and Digital Behavior Management. Right now i'm working in a financial institution as a Process and Quality Assistant. I am making a career transition to the programming area, FrontEnd in particular.
+Right now i'm working in the area of processes and quality, mapping, creating and improving processes and solving problems.
+Today, my main focus is process mapping and transforming the user experience. 
+
+My goal is to continually develop the environment in which I operate, based on the people around me, so that I can increasingly learn and develop my career as a developer and the organization I am part of!
+
+I am available to exchange ideas. Cheers!
 
 #### Working With:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
