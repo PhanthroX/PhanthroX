@@ -34,4 +34,4 @@ I am available to exchange ideas. Cheers!
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=PhanthroX&show_icons=true&theme=synthwave&rank_icon=github&cache_seconds=1200">
 
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanthroX&show_icons=true&theme=synthwave&cache_seconds=1200">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanthroX&&hide=jupyter%20notebook,show_icons=true&theme=synthwave&cache_seconds=1200">
