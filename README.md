@@ -11,7 +11,7 @@ Hi there. I hope you're doing well! ;)
 I have a degree in Business Management Administration and Master's degree in Marketing and Digital Behavior Management. 
 
 Right now i'm working in the area of systems development, mapping, creating and improving processes and solving problems.
-Today, my main focus is process mapping and transforming the user experience. 
+Today, my main focus is process mapping and creation of RPA in python. 
 
 My goal is to continually develop the environment in which I operate, based on the people around me, so that I can increasingly learn and develop my career as a developer and the organization I am part of!
 
