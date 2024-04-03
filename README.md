@@ -7,7 +7,7 @@
 <h2> About me</h2>
 <section>
 Olá. Espero que você esteja bem! ;)
-Sou formada em Administração de Empresas e pós-graduado em Marketing e Gestão do Comportamento Digital.
+Sou formado em Administração de Empresas e pós-graduado em Marketing e Gestão do Comportamento Digital.
 
 Atualmente atuo na área de desenvolvimento de sistemas, mapeando, criando, melhorando processos e resolvendo problemas. Hoje meu foco principal é mapeamento de processos e criação de RPA em python.
 
