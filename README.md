@@ -4,7 +4,7 @@
 
 
 <section>
-<h2> About me</h2>
+<h2> Sobre mim</h2>
 <section>
 Olá. Espero que você esteja bem! ;)
 Sou formado em Administração de Empresas e pós-graduado em Marketing e Gestão do Comportamento Digital.
