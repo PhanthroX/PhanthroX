@@ -1,21 +1,19 @@
 <header>
-<h1>Systems Development</h1>
+<h1>Desenvolvimento de Sistemas</h1>
 </header>
 
 
 <section>
 <h2> About me</h2>
 <section>
-Hi there. I hope you're doing well! ;)
-  
-I have a degree in Business Management Administration and Master's degree in Marketing and Digital Behavior Management. 
+Olá. Espero que você esteja bem! ;)
+Sou formada em Administração de Empresas e pós-graduado em Marketing e Gestão do Comportamento Digital.
 
-Right now i'm working in the area of systems development, mapping, creating and improving processes and solving problems.
-Today, my main focus is process mapping and creation of RPA in python. 
+Atualmente atuo na área de desenvolvimento de sistemas, mapeando, criando, melhorando processos e resolvendo problemas. Hoje meu foco principal é mapeamento de processos e criação de RPA em python.
 
-My goal is to continually develop the environment in which I operate, based on the people around me, so that I can increasingly learn and develop my career as a developer and the organization I am part of!
+Meu objetivo é desenvolver continuamente o ambiente em que atuo, com base nas pessoas ao meu redor, para que eu possa aprender e desenvolver cada vez mais minha carreira como desenvolvedor e a organização da qual faço parte!
 
-I am available to exchange ideas. Cheers!
+Estou disponível para trocar ideias.
 
 #### Working With:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
